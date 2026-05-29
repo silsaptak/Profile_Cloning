@@ -136,7 +136,6 @@ Fake_Users/
 ├── inference.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
@@ -243,7 +242,7 @@ File descriptions:
 
 The ANN achieved the best overall classification performance, while Naive Bayes provided the fastest execution time.
 
-In the train-test evaluation, the ANN reached approximately **97–98% accuracy**, while Naive Bayes achieved approximately **96% accuracy** with significantly lower computation time.
+In the train-test evaluation, the ANN reached approximately **98–99% accuracy**, while Naive Bayes achieved approximately **97% accuracy** with significantly lower computation time.
 
 Cross-validation results also showed that ANN consistently performed best across folds, while Naive Bayes remained a strong lightweight baseline.
 

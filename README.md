@@ -122,7 +122,6 @@ Fake_Users/
 │   └── feature_columns.pkl
 │
 ├── src/
-│   ├── __init__.py
 │   ├── dataloader.py
 │   ├── preprocessing.py
 │   ├── models.py
